@@ -1,0 +1,3 @@
+C:/Users/vmhug/CLionProjects/projDenis/cmake-build-debug/CMakeFiles/projDenis.dir
+C:/Users/vmhug/CLionProjects/projDenis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vmhug/CLionProjects/projDenis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
